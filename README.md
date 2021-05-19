@@ -1,2 +1,2 @@
 # SW_feedbacks
-Data &amp; code for Zylstra et al 2021
+Data and code for Zylstra et al 2021
